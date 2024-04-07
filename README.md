@@ -24,7 +24,7 @@ The schematic and the layout are done using KiCAD and are availabe in Design_fil
 Here is a visualization of the PCB:
 
 <p>
-  <img src="img/LC29H_basic_top.png" alt="drawing" width="370"/>
+  <img src="img/LC29H_basic_top.png" alt="PCB render" width="500"/>
 </p>
 
 The case design is available as 2 separate objects: the top and bottom of the case in .STL format. These files are available in Design_files/240328_GNSS_Rx_enclosure.
